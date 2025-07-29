@@ -12,15 +12,18 @@ This implementation is part of the author's research presented in the IOP Confer
 ## 📊 Iris dataset
 The notebook includes examples using:
 - Iris dataset (from `sklearn.datasets`)
-## 📦 Synthetic Dataset
-The file `synthetic.xlsx` contains a challenging synthetic dataset designed to evaluate clustering algorithms. It consists of **2000 samples** divided into **4 clusters**:
+---
 
-- **2 clusters** with uniform distribution (in distinct quadrants)
-- **2 clusters** with multivariate normal distribution:
-  - One with negative correlation (skewed ellipse)
+## 📦 Synthetic Dataset
+The file `synthetic.xlsx` contains 2000 samples divided into 4 clusters:
+- **2 clusters** generated from uniform distributions
+  - Located in opposite quadrants
+- **2 clusters** generated from multivariate normal distributions
+  - One with negative correlation (skewed elliptical shape)
   - One with unequal variances (vertical ellipse)
 
-This dataset replicates the complexity presented in the original IOP Conference paper, making it useful for testing LRE performance under real-world-like variance and structure.
+This synthetic dataset replicates the complexity used in the IOP Conference evaluation. It is ideal for testing LRE’s performance on heterogeneous cluster structures, varying densities, and real-world-like complexity.
+
 
 ## 🚀 How to Use
 
