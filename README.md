@@ -22,7 +22,7 @@ The file `synthetic.xlsx` contains 2000 samples divided into 4 clusters:
   - One with negative correlation (skewed elliptical shape)
   - One with unequal variances (vertical ellipse)
 
-This synthetic dataset replicates the complexity used in the IOP Conference evaluation. It is ideal for testing LRE’s performance on heterogeneous cluster structures, varying densities, and real-world-like complexity.
+This dataset is the same as the one used in the IOP Conference publication. It challenges clustering methods with heterogeneity and variance structure, making it ideal for benchmarking automated methods like LRE.
 
 
 ## 🚀 How to Use
