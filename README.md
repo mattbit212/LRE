@@ -29,5 +29,4 @@ The notebook includes examples using:
 5. **Citation**
 If you use this method or code in your research, please cite the following:
 
-Yusuf, A. (2025). Computational Implementation of Linear Reference Elbow (LRE) Method for Optimal Cluster Determination in K-Means Algorithm. IOP Conference Series. [DOI pending]
-DOI for the code version (https://doi.org/10.5281/zenodo.16574800).
+Yusuf, A. (2025). Computational Implementation of Linear Reference Elbow (LRE) Method for Optimal Cluster Determination in K-Means Algorithm. IOP Conference Series. [https://doi.org/10.5281/zenodo.16574800]
